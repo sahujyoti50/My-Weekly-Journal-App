@@ -1,0 +1,25 @@
+$main-color:rgb(150, 205, 102);
+
+@for $i from 1 to 8{
+  .list-#{$i}{
+   height:70px;
+   margin:10px;
+   color:white;
+   padding:5px;
+   background-color:darken($main-color,8*$i);
+  }
+}
+body{
+  background-color: aliceblue;
+}
+.bodyDiv{
+  width:40%;
+  background-color: white;
+  margin:5px auto;
+  border:1px solid;
+  height:auto;
+  padding:5px;
+}
+h1{
+  text-align: center;
+}
