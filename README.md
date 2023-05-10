@@ -1,8 +1,8 @@
-# Webpack-React-App
-React Car App with Webpack Bunder
+# My-Weekly-Journal-App
 
 Preview:
 
-![image](https://user-images.githubusercontent.com/15225177/233065476-1ffc8993-4279-4e51-b778-825ecdbf8eb3.png)
+![image](https://github.com/sahujyoti50/My-Weekly-Journal-App/assets/15225177/11c30e26-cbf3-4501-97e9-1fcc9729b72e)
+
 
 
