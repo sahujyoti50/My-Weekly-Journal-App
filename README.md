@@ -2,7 +2,7 @@
 
 Preview:
 
-![image](https://github.com/sahujyoti50/My-Weekly-Journal-App/assets/15225177/11c30e26-cbf3-4501-97e9-1fcc9729b72e)
+![image](https://github.com/sahujyoti50/My-Weekly-Journal-App/assets/15225177/ab1fa215-6dff-4737-9c7e-ed3811bf5b62)
 
 
 
